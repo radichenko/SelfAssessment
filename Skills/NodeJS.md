@@ -1,23 +1,23 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - node:module
+  - node:module 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
+  - Dependencies: npm, node_modules 🎓 known
   - Dependencies: package.json and package lock
   - Module-based permissions model
   - Isolation with modularity
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🎓 known
+  - Node.js CLI 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -84,25 +84,25 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
+  - IP sticky sessions 🎓 known
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S)  🎓 known
+  - TCP/SSL 🎓 known
+  - UDP 🎓 known
+  - TLS 🎓 known
+  - Websocket 
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 🎓 known
   - Long polling
   - REST
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 🎓 known
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -114,7 +114,7 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging 👂 heard
   - Application configuring
   - Testing
   - CI/CD
@@ -123,24 +123,24 @@
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console 🎓 known
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability 
+  - Quality 👂 heard
+  - Availability 👂 heard
+  - Flexibility 👂 heard
 - Data access
   - Data access layer
-  - Repository
+  - Repository 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🎓 known
+  - error.cause 👂 heard
+  - error.code 👂 heard
+  - error.message 🎓 known
+  - error.stack 🎓 known
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
@@ -151,8 +151,8 @@
   - Resource leaks
   - Data race
 - Integrations and bindings
-  - Native addons
-  - C and C++ addons
+  - Native addons 👂 heard
+  - C and C++ addons 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
