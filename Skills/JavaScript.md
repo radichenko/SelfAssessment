@@ -5,34 +5,34 @@
   - this 🖐 used
   - arrow function 🖐 used
   - async function 👂 heard
-  - call 👂 heard
+  - call 🎓 known
   - bind 👂 heard
   - apply 🎓 known
   - instanceof 🎓 known
   - ...spread 👂 heard
-  - ...rest
+  - ...rest 🎓 known
   - typeof 🖐 used
-  - destructuring
-  - generator 👂 heard
+  - destructuring 🎓 known
+  - generator 🎓 known
   - iterator 🎓 known
-  - async generator 👂 heard
-  - async iterator 👂 heard
+  - async generator 🎓 known
+  - async iterator 🎓 known
   - chaining 👂 heard
   - optional chaining
   - IIFE
-  - global
-  - globalThis
+  - global 🎓 known
+  - globalThis 🎓 known
   - window 🖐 used
   - getters and setters
-  - proto
-  - prototype 👂 heard
+  - proto 🎓 known
+  - prototype 🎓 known
   - equality operators 🖐 used
   - logical operators 🖐 used
   - bitwise operators 🖐 used
   - ternary operator 🖐 used
   - void 🖐 used
   - yield 
-  - await
+  - await 🎓 known
   - template literal🖐 used
   - strict mode 🖐 used
   - delete 🖐 used
@@ -53,12 +53,12 @@
   - continue 🖐 used
   - import 🖐 used
   - export 🖐 used
-  - label 👂 heard
+  - label 🎓 known
   - try..catch 
   - switch 🖐 used
   - class 🎓 known
-  - new Error 👂 heard
-  - with 👂 heard
+  - new Error 🎓 known
+  - with 🎓 known
 - Functions
   - function declaration 🖐 used
   - function expression 🖐 used

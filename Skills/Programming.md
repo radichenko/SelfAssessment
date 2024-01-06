@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐 used
-  - identifier 🖐 used
-  - variable 🖐 used
-  - constant 🖐 used
-  - scalar 🖐 used
-  - literal 🖐 used
-  - expression 🖐 used
-  - heap 🎓 known
-  - function 🖐 used
-  - procedure 🖐 used
-  - method 🖐 used
-  - class 🎓 known
+  - value 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained
+  - constant 🙋 explained
+  - scalar 🙋 explained
+  - literal 🙋 explained
+  - expression 🙋 explained
+  - heap 🖐️ used
+  - function 🙋 explained
+  - procedure 🙋 explained
+  - method 🙋 explained
+  - class 🙋 explained
   - prototype 🎓 known
   - event 🎓 known
-  - type 🖐 used
+  - type 🙋 explained
   - primitive types 🖐 used
   - reference types 🖐 used
   - flag 🖐 used
-  - lexical scope
-  - code block 🖐 used
-  - conditions 🖐 used
-  - loops 🖐 used
+  - lexical scope 🎓 known
+  - code block 🙋 explained
+  - conditions 🙋 explained
+  - loops 🙋 explained
   - assignment 🎓 known
   - regular expression 🖐 used
   - interface 🎓 known
@@ -31,15 +31,15 @@
   - call stack 👂 heard
 - Functions
   - signature 👂 heard
-  - argument 🖐 used
-  - parameter 🖐 used
+  - argument 🙋 explained
+  - parameter 🙋 explained
   - pure function 🖐 used
-  - lambda expression 🖐 used
+  - lambda expression 🙋 explained
   - side effects 👂 heard
   - closure 👂 heard
   - partial application
-  - curry
-  - higher order
+  - curry 👂 heard
+  - higher order 🎓 known,
   - recursion 🖐 used
   - callback 🖐 used
   - listener
@@ -50,15 +50,15 @@
   - functor
   - monad
   - monoid
-  - generator
+  - generator 👂 heard
   - coroutine
 - Data structures
-  - array 🖐 used
+  - array 🙋 explained
   - structure 👂 heard
   - record
   - enum 🖐 used
   - instance
-  - object 🖐 used
+  - object 🙋 explained
   - class 🎓 known
   - collection 🖐 used
   - set 🎓 known
@@ -72,14 +72,14 @@
   - deque 
   - tree 🎓 known
   - graph 🖐 used
-  - iterator
+  - iterator 👂 heard
   - mutable state 👂 heard
   - immutable state
   - serialization
   - string parsing 👂 heard
 - Process & style
   - compiler 🖐 used
-  - transpiler
+  - transpiler 🎓 known
   - linter 🖐 used
   - polyfill
   - debugger 🖐 used
@@ -89,9 +89,9 @@
   - antipatterns 🎓 known
   - paradigm 🎓 known
   - algorithm 🖐 used
-  - magic numbers 
+  - magic numbers 🎓 known
   - hardcode 🖐 used :D
-  - complexity
+  - complexity 👂 heard
   - decomposition 🎓 known
   - spaghetti 👂 heard
   - silver bullet
@@ -101,6 +101,6 @@
   - duplicate code 🎓 known
   - exception 🎓 known
   - return early 🎓 known
-  - unittest
-  - git 🖐 used
-  - github 🖐 used
+  - unittest 
+  - git 🙋 explained
+  - github 🙋 explained

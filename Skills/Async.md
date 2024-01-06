@@ -2,11 +2,11 @@
 
 - Theory
   - Event loop
-  - try..catch
+  - try..catch 🖐️ used
   - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
+  - Async I/O 🎓 known
+  - Thread pool 
+  - Pattern Reactor 👂 heard
   - CAS operations
   - epoll
   - kqueue
@@ -14,29 +14,29 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks 
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
   - Thread
-  - Process
+  - Process 🎓 known
 - Async contracts
-  - Callbacks 👂 heard
+  - Callbacks 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise 👂 heard
-  - Async/await 👂 heard
+  - Promise 🖐️ used
+  - Async/await 🖐️ used
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 👂 heard
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream 
   - Chain of responsibility
   - Middleware
   - Locks
@@ -52,8 +52,8 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
   - Async Collector
   - Semaphore
   - Mutex
@@ -70,7 +70,7 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell 👂 heard
   - Promise hell
   - ref() and unref()
   - Error handling in async code
@@ -83,7 +83,7 @@
 - Techniques
   - async.js library
   - RxJS library
-  - Async composition
+  - Async composition 👂 heard
   - Promise.all
   - Promise.allSettled
   - Promise.race
