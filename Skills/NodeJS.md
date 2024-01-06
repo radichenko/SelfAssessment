@@ -1,13 +1,13 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 👂 heard
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js 🎓 known
+  - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code
-  - Event loop: phases
+  - Event loop: phases 👂 heard
   - Event loop: microtasks and macrotasks
   - Garbage collection 👂 heard
-  - Node.js LTS schedule
+  - Node.js LTS schedule 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
@@ -15,16 +15,16 @@
   - ECMAScript modules
   - node:module 👂 heard
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 👂 heard
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules 🎓 known
   - Dependencies: package.json and package lock
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection 👂 heard
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach 👂 heard
 - Environment
   - Command line arguments 🎓 known
   - Node.js CLI 🎓 known
@@ -84,17 +84,17 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions 🎓 known
+  - IP sticky sessions 🖐️ used
   - Endpoint throttling
-  - HTTP(S)  🎓 known
-  - TCP/SSL 🎓 known
-  - UDP 🎓 known
-  - TLS 🎓 known
+  - HTTP(S)  🖐️ used
+  - TCP/SSL 🖐️ used
+  - UDP 🖐️ used
+  - TLS 🖐️ used
   - Websocket 
   - SSE
   - HTTP/3 (QUIC) 🎓 known
   - Long polling
-  - REST
+  - REST 🖐️ used
   - RPC
   - Routing
   - DoS
@@ -102,7 +102,7 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS 🎓 known
+  - DNS 🖐️ used
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -110,7 +110,7 @@
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates 🖐️ used
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
@@ -125,7 +125,7 @@
   - Buffer
   - Console 🎓 known
   - Inspector
-  - Reliability 
+  - Reliability 👂 heard
   - Quality 👂 heard
   - Availability 👂 heard
   - Flexibility 👂 heard
@@ -141,11 +141,11 @@
   - error.code 👂 heard
   - error.message 🎓 known
   - error.stack 🎓 known
-  - How to avoid mixins
+  - How to avoid mixins 👂 heard
   - Error.captureStackTrace
   - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Heap dump 👂 heard
+  - Debugging tools 🎓 known
   - Flame graph
   - Memory leaks
   - Resource leaks

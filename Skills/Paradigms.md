@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 👂 heard
-  - Imperative programming 👂 heard
-  - Structured programming 👂 heard
-  - Non-structured programming 👂 heard
-  - Functional programming 👂 heard
-  - Prototype-based programming
-  - Object-oriented programming 🎓 known
-  - Object-based programming 
+  - Procedural programming 🎓 known
+  - Imperative programming 🎓 known
+  - Structured programming 🎓 known
+  - Non-structured programming 🎓 known
+  - Functional programming 🎓 known
+  - Prototype-based programming 👂 heard
+  - Object-oriented programming 🙋 explained
+  - Object-based programming 🎓 known
   - Generic programming 
   - Concurrent computing
   - Asyncronous programming 👂 heard
-  - Parallel programming
+  - Parallel programming 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
@@ -21,46 +21,46 @@
   - Metaprogramming 👂 heard
   - Actor model
 - OOP basics
-  - constructor 
-  - new 👂 heard
+  - constructor 🖐️ used
+  - new 🎓 known
   - Static method
-  - Method 👂 heard
-  - Async method
+  - Method 🖐️ used
+  - Async method 👂 heard
   - Getters, Setters
   - Public fields 👂 heard
   - Private fields 👂 heard
   - Field declarations
-  - Inheritance 👂 heard
-  - Parent class 👂 heard
-  - Polymorphism
-  - Abstract class
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 🎓 known
   - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
+  - Encapsulation 👂 heard
+  - Hidden class 🎓 known
+  - Object form 🎓 known
+  - instance 🎓 known
   - Introspection
-  - Reflection
+  - Reflection 👂 heard
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory 👂 heard
-  - Adapter 👂 heard
+  - Singleton 🖐️ used
+  - Factory Method 🖐️ used
+  - Abstract Factory 🖐️ used
+  - Adapter 🖐️ used
   - Observer
   - Strategy 
   - Facade
-  - Proxy
+  - Proxy 👂 heard
   - Chain of Responsibility
-  - Command 👂 heard
-  - Iterator 👂 heard
+  - Command 🎓 known
+  - Iterator 🎓 known
   - State
-  - Bridge 👂 heard
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
+  - Bridge 🎓 known
+  - Builder 👂 heard
+  - Prototype 🎓 known
+  - Composite 🎓 known
+  - Decorator 🎓 known
   - Flyweight
-  - Mediator
+  - Mediator 👂 heard
   - Memento
   - Template Method
   - Visitor
